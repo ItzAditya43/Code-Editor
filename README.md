@@ -88,7 +88,3 @@ You can connect to me by messaging me on X.com (link in the profile).
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-This README provides an overview that's both comprehensive and accessible for beginners while clearly outlining current functionality and future plans without overhyping the early-stage features. Let me know if you need further modifications!
